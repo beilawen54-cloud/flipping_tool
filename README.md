@@ -1,6 +1,6 @@
 # flipping_tool
 
-Tools for visualizing Balanced Yamanouchi Word (BYW) webs and flipping \(\lambda_i\) boundaries.
+Tools for visualizing Balanced Yamanouchi Word (BYW) webs and flipping boundaries.
 
 This repo is designed to be used with **Binder** so that others can run the *full* `webs_toolkit.py` script exactly like on your local machine (Spyder / terminal), using a Binder terminal.
 
